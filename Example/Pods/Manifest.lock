@@ -1,0 +1,16 @@
+PODS:
+  - TTTabbarController (1.0)
+
+DEPENDENCIES:
+  - TTTabbarController (from `../`)
+
+EXTERNAL SOURCES:
+  TTTabbarController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TTTabbarController: a96e5901519efededb5daf6784d6f2e699970d74
+
+PODFILE CHECKSUM: 1e8322c47b56ea3f7ca43309ee4963765177340f
+
+COCOAPODS: 1.7.2

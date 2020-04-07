@@ -1,0 +1,6 @@
+framework module Pods_TTTabbarController_Example {
+  umbrella header "Pods-TTTabbarController_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

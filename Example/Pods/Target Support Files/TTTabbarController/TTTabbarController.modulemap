@@ -1,0 +1,6 @@
+framework module TTTabbarController {
+  umbrella header "TTTabbarController-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "TTTabbarController",
+  "version": "1.0",
+  "summary": "自定义TabbarController",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/heng66/TTTabbarController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "heng66": "chenqg3721@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/heng66/TTTabbarController.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TTTabbarController/Classes/**/*",
+  "resource_bundles": {
+    "TTTabbarController": [
+      "TTTabbarController/Assets/*.xcassets"
+    ]
+  }
+}
